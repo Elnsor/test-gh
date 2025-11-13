@@ -1,3 +1,5 @@
 test
 pr again to test.txt
 some commint to test.txt
+reopen issue 7 for change
+test issue close vi commit message
