@@ -5,3 +5,4 @@ reopen issue 7 for change
 test issue close vi commit message
 test issue close vi commit message-1
 test issue close vi commit message-3
+test issue close vi commit message-4
